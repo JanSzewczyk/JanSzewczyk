@@ -31,4 +31,4 @@
 [![Prettier](https://img.shields.io/badge/-Prettier-1a2b34?style=flat-square&logo=Prettier&logoColor=white)](https://prettier.io/)
 
 [![Lodash](https://img.shields.io/badge/-Lodash-3492ff?style=flat-square&logo=Lodash&logoColor=white)](https://lodash.com/)
-
+[![Lombok](https://img.shields.io/badge/-Lombok-3492ff?style=flat-square&logo=Lombok&logoColor=white)](https://projectlombok.org/)
