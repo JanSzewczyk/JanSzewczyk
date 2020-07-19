@@ -21,7 +21,11 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-de4b25?style=flat-square&logo=html5&logoColor=white)](https://github.com/JanSzewczyk/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1a70b5?style=flat-square&logo=css3&logoColor=white)](https://github.com/JanSzewczyk/)
 [![Sass](https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/JanSzewczyk/)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+
+[![Git](https://img.shields.io/badge/-Git-fa4f28?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Webpack](https://img.shields.io/badge/-Webpack-1e72b3?style=flat-square&logo=Webpack&logoColor=white)](https://webpack.js.org/)
+[![Eslint](https://img.shields.io/badge/-Eslint-4b32c3?style=flat-square&logo=Eslint&logoColor=white)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/-Prettier-1a2b34?style=flat-square&logo=Prettier&logoColor=white)](https://prettier.io/)
