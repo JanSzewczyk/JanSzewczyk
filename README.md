@@ -9,6 +9,6 @@
 
 ## Technologies 
 
-[![Java](https://img.shields.io/badge/-Java-de352e?style=flat-square&logo=java&link=https://github.com/JanSzewczyk/)](https://github.com/JanSzewczyk/)
+[![Java](https://img.shields.io/badge/-Java-ffffff?style=flat-square&logo=java&link=https://github.com/JanSzewczyk/)](https://github.com/JanSzewczyk/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/JanSzewczyk/)](https://github.com/JanSzewczyk/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/JanSzewczyk/)](https://github.com/JanSzewczyk/)
