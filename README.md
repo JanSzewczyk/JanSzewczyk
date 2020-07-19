@@ -13,8 +13,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)](https://github.com/JanSzewczyk/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-[![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring)](https://spring.io/)
-[![Hibernate](https://img.shields.io/badge/-Hibernate-59666c?style=flat-square&logo=Hibernate)](https://hibernate.org/)
+[![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-59666c?style=flat-square&logo=Hibernate&logoColor=white)](https://hibernate.org/)
 [![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white)](https://redux.js.org/)
 
