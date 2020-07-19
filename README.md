@@ -24,4 +24,4 @@
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/JanSzewczyk/)
 
 [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/JanSzewczyk/)
-[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/JanSzewczyk/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-orange?style=flat-square&logo=PostgreSQL)](https://github.com/JanSzewczyk/)
