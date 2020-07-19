@@ -8,3 +8,7 @@
 
 
 ## Technologies 
+
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javascript&link=https://github.com/JanSzewczyk/)](https://github.com/JanSzewczyk/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/JanSzewczyk/)](https://github.com/JanSzewczyk/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/JanSzewczyk/)](https://github.com/JanSzewczyk/)
