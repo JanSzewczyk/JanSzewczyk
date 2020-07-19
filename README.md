@@ -20,8 +20,8 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/JanSzewczyk/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/JanSzewczyk/)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/JanSzewczyk/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass)](https://github.com/JanSzewczyk/)
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/JanSzewczyk/)
 
-[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/JanSzewczyk/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-orange?style=flat-square&logo=PostgreSQL)](https://github.com/JanSzewczyk/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
+[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
