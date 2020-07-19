@@ -9,19 +9,19 @@
 
 ## Technologies 
 
-[![Java](https://img.shields.io/badge/-Java-0063b7?style=flat-square&logo=java)](https://github.com/JanSzewczyk/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/JanSzewczyk/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://github.com/JanSzewczyk/)
+[![Java](https://img.shields.io/badge/-Java-e40000?style=flat-square&logo=java&logoColor=white)](https://github.com/JanSzewczyk/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)](https://github.com/JanSzewczyk/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-[![Spring](https://img.shields.io/badge/-Spring-262a2d?style=flat-square&logo=spring)](https://github.com/JanSzewczyk/)
-[![Hibernate](https://img.shields.io/badge/-Hibernate-59666c?style=flat-square&logo=Hibernate)](https://github.com/JanSzewczyk/)
-[![React](https://img.shields.io/badge/-React-141518?style=flat-square&logo=react)](https://github.com/JanSzewczyk/)
-[![Redux](https://img.shields.io/badge/-Redux-7348b7?style=flat-square&logo=Redux&logoColor=f7f7f7)](https://github.com/JanSzewczyk/)
+[![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-59666c?style=flat-square&logo=Hibernate)](https://hibernate.org/)
+[![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white)](https://redux.js.org/)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/JanSzewczyk/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/JanSzewczyk/)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass)](https://github.com/JanSzewczyk/)
+[![HTML5](https://img.shields.io/badge/-HTML5-de4b25?style=flat-square&logo=html5&logoColor=white)](https://github.com/JanSzewczyk/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1a70b5?style=flat-square&logo=css3&logoColor=white)](https://github.com/JanSzewczyk/)
+[![Sass](https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/JanSzewczyk/)
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
