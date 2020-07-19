@@ -13,7 +13,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/JanSzewczyk/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://github.com/JanSzewczyk/)
 
-[![Spring](https://img.shields.io/badge/-Spring-262a2d?style=flat-square&logo=spring)](https://github.com/JanSzewczyk/)
+[![Spring](https://img.shields.io/badge/-Spring-ffffff?style=flat-square&logo=spring&color=262a2d)](https://github.com/JanSzewczyk/)
 [![React](https://img.shields.io/badge/-React-141518?style=flat-square&logo=react)](https://github.com/JanSzewczyk/)
 [![Redux](https://img.shields.io/badge/-Redux-7348b7?style=flat-square&logo=Redux&logoColor=f7f7f7)](https://github.com/JanSzewczyk/)
 
