@@ -32,3 +32,7 @@
 
 [![Lodash](https://img.shields.io/badge/-Lodash-3492ff?style=flat-square&logo=Lodash&logoColor=white)](https://lodash.com/)
 [![Lombok](https://img.shields.io/badge/-Lombok-a37777?style=flat-square&logo=lombok&logoColor=white)](https://projectlombok.org/)
+
+## Github Stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=JanSzewczyk&theme=dark&show_icons=true)
