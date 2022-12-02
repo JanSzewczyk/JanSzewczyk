@@ -37,4 +37,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanSzewczyk)
 
-![JanSzewczyk's github stats](https://github-readme-stats.vercel.app/api?username=JanSzewczyk&show_icons=true)
+![JanSzewczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanSzewczyk&show_icons=true&theme=transparent)
+
