@@ -113,8 +113,6 @@ Beyond coding, I'm interested in:
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanSzewczyk&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanSzewczyk&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
